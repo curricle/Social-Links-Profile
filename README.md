@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-with-flexbox-fvKXhHw5yK)
 - Live Site URL: [GitHub Pages](https://curricle.github.io/Social-Links-Profile/)
 
 ## My process
